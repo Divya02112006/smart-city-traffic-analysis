@@ -25,5 +25,4 @@ Synthetic dataset containing:
 - Use ML to predict traffic & pollution.  
 - Build a dashboard with Streamlit.  
 
-## 📸 Screenshots
-(Add graphs after running the code)
+ 
